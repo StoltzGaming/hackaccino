@@ -8,25 +8,25 @@ Create a new directory in this folder with your. Inside the directory, create a 
 
 ### Author name
 
-Author: Gaurav Pandey
+Author: Caleb Stoltz
 
 <!-- A name or nickname that you want to appear as the author of the website -->
 
 ## Website Name
 
-Name: Hack Club
+Name: 3D-website
 
 ## Live Website URL
 
-Link: https://hackclub.com
+Link: (https://3d-site111111.netlify.app)
 
 ## Code
 
-GitHub Link: https://github.com/hackclub
+GitHub Link: (https://github.com/StoltzGaming/hackaccino/blob/main/submissions/3D-website.zip)
 
 ## How many hours did you spend on this?
 
-Hours: 1
+Hours: 2
 
 ## How did you build this?
 
